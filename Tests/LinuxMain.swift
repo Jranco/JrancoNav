@@ -1,7 +1,7 @@
 import XCTest
 
-import JrancoNavTests
+import JarNavTests
 
 var tests = [XCTestCaseEntry]()
-tests += JrancoNavTests.allTests()
+tests += JarNavTests.allTests()
 XCTMain(tests)

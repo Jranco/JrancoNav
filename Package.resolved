@@ -2,12 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "JrancoMVVMC",
-        "repositoryURL": "https://github.com/Jranco/JrancoMVVMC.git",
+        "package": "JarMVVMC",
+        "repositoryURL": "https://github.com/Jranco/JarMVVMC.git",
         "state": {
           "branch": null,
-          "revision": "08353b2b125aa9f94ac6445e893ec4ca7d06370a",
-          "version": "0.1.0"
+          "revision": "819cd765cca0f58ce8bd6bf6b4f88c5890c11bdb",
+          "version": "1.0.0"
         }
       }
     ]

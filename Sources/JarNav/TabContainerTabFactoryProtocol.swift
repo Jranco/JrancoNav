@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import JrancoMVVMC
+import JarMVVMC
 
 public protocol TabContainerTabFactoryProtocol {
     func coordinators() -> [CoordinatorProtocol]

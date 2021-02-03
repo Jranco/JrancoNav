@@ -8,7 +8,7 @@
 
 import Foundation
 import UIKit
-import JrancoMVVMC
+import JarMVVMC
 
 open class TabContainerCoordinator: NSObject, CoordinatorProtocol, UITabBarControllerDelegate {
     

@@ -1,7 +1,7 @@
 import XCTest
-@testable import JrancoNav
+@testable import JarNav
 
-final class JrancoNavTests: XCTestCase {
+final class JarNavTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct

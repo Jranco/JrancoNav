@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import JrancoMVVMC
+import JarMVVMC
 
 public protocol TabModallyPresentedProtocol where Self: CoordinatorProtocol {
     var modallyPresentedCoordinator: CoordinatorProtocol { get }
