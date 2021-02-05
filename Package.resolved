@@ -3,10 +3,10 @@
     "pins": [
       {
         "package": "JarMVVMC",
-        "repositoryURL": "https://github.com/Jranco/JarMVVMC.git",
+        "repositoryURL": "https://github.com/Jranco/JarMVVMC",
         "state": {
           "branch": null,
-          "revision": "819cd765cca0f58ce8bd6bf6b4f88c5890c11bdb",
+          "revision": "df38c8f8d508367133b9cd9b3a8e5547e1f44648",
           "version": "1.0.0"
         }
       }

@@ -17,7 +17,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         .package(
-               url: "https://github.com/Jranco/JarMVVMC.git",
+               url: "https://github.com/Jranco/JarMVVMC",
                from: "1.0.0"
            )
     ],
